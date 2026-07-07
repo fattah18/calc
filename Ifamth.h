@@ -1,0 +1,28 @@
+#define myp 3.141592653589793238462643383279502884L
+long double power(long double x, long y);
+long double powerfloat(long double a,long double b);
+long double fact(long long int n);
+long double expo(long double x);
+long double lnx(long double x);
+long double cosin(long double x);
+long double sinus(long double x);
+long double arcsin(long double x);
+long double arccosin(long double x);
+long double tng(long double x);
+long double arctng(long double x);
+long double racine(long double x);
+long double racinecube(long double x);
+long long bin_to_dec(long long bin);
+long long dec_to_bin(long long dec);
+long double logdec(long double x);
+long long oct_to_dec(long long oct);
+long long dec_to_oct(long long dec);
+long double cosinh(long double x);
+long double sinush(long double x);
+long double tngh(long double x);
+long double vabs(long double x);
+long double asinush(long double x);
+long double acosinh(long double x);
+long double atngh(long double x);
+long long intpart(long double x);
+long double fracpart(long double x);
